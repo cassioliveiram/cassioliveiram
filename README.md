@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Cássio Moreira and I'm a just tech and courious guy. 
+# Hi there 👋, my name is Cássio Moreira and I'm just a tech and curious guy.
 
 ## About me
 
