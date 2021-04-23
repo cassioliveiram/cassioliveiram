@@ -8,7 +8,7 @@
 
 ## Competencies and Intresting things
 
-- :computer: Actually I'm working as DevOps/SRE Engineer at [@iatlantico](https://www.instagram.com/iatlantico/) * We have positions.
+- :computer: Actually I'm working as DevOps/SRE Engineer at [@HP](https://www.linkedin.com/company/hp).
 - 🌱 I’m currently deep learning some stuffs to got the AWS Solutions Architect certification. SysOps is next step.
 - 💬 Ask me about anything inside DevOps World, I really appreciate help you.
 - 📫 How to reach me: 
