@@ -2,7 +2,7 @@
 
 ## About me
 
-> * 30 years old
+> * 31 years old
 > * Sysadmin || DevOps/SRE Engineer
 > * Docker Community Leader | Terraform Certified | AWS Solutions Architect (in progress)
 
