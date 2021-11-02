@@ -9,8 +9,8 @@
 ## Competencies and Intresting things
 
 - :computer: Actually I'm working as DevOps/SRE Engineer at [@HP](https://www.linkedin.com/company/hp).
-- 🌱 I’m currently deep learning some stuffs to got the AWS Solutions Architect certification. SysOps is next step.
-- 💬 Ask me about anything inside DevOps World, I really appreciate help you.
+- 🌱 I’m currently deep learning some stuffs to got the AWS Solutions Architect and CKAD certifications
+- 💬 Ask me about anything inside DevOps World, I'll really appreciate if I can help you.
 - 📫 How to reach me: 
 
     [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassioliveiram@gmail.com)](mailto:cassioliveiram@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-cassioliveiram-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@cassioliveriam)](https://medium.com/@cassioliveiram) | [![Linkedin Badge](https://img.shields.io/badge/-CassioMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassioliveiram)](https://www.linkedin.com/in/cassioliveiram)
@@ -33,6 +33,7 @@
 > ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 > ![circleci](https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white)
 > ![ansible](https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+> ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-ADO-blue)
 
 ## Stats
 
